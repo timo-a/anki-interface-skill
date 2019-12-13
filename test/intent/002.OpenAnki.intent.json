@@ -1,0 +1,5 @@
+{
+"utterance": "Start vocabulary review!",
+"expected_response": "I'm starting anki...",
+"evaluation_timeout": 10
+}

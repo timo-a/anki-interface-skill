@@ -1,0 +1,6 @@
+{
+"utterance": "Open deck one",
+"expected_response": "Opening deck 1",
+"responses": ["go back to menu"],
+"evaluation_timeout": 10
+}

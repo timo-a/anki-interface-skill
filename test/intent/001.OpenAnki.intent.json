@@ -1,0 +1,6 @@
+{
+"utterance": "Open Anki",
+"expected_response": "I'm starting anki...",
+"responses": ["3"],
+"evaluation_timeout": 10
+}

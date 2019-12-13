@@ -1,0 +1,5 @@
+{
+"utterance": "Open deck won",
+"expected_response": "Opening deck 1",
+"evaluation_timeout": 10
+}
